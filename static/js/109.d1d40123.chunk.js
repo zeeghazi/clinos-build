@@ -1,0 +1,2 @@
+(this.webpackJsonpAvonEMR=this.webpackJsonpAvonEMR||[]).push([[109],{1154:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return c}));e(0);var r=e(436),o=e(95),i=e(1),a=Object(r.a)((function(t){return{root:{flexGrow:1,padding:"40px 0px"},title:{paddingBottom:t.spacing(1)}}}));function c(){var t=a();return Object(i.jsx)("div",{className:t.root,children:Object(i.jsx)(o.a,{component:"h1",variant:"h2",color:"textPrimary",className:t.title,children:"Allergies"})})}}}]);
+//# sourceMappingURL=109.d1d40123.chunk.js.map

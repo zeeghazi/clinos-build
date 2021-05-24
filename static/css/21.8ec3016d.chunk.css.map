@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/screens/patient-portal/Appointments/Calendar/calendar.css"],"names":[],"mappings":"AAAA,cACE,gCACF,CAEA,cACE,4BACF","file":"21.8ec3016d.chunk.css","sourcesContent":[".fc-highlight {\n  background: transparent !important;\n}\n\n.selected-day {\n  background: #E8F3FC !important;\n}\n"]}

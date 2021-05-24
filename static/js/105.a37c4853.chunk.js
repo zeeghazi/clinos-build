@@ -1,0 +1,2 @@
+(this.webpackJsonpAvonEMR=this.webpackJsonpAvonEMR||[]).push([[105],{1107:function(t,n,e){"use strict";e.r(n);e(0);var s=e(28),a=e(16),c=e(1);n.default=function(){return Object(a.a)().isAuthenticated?Object(c.jsx)(s.a,{to:"/dashboard"}):Object(c.jsx)(s.a,{to:"/login_client"})}}}]);
+//# sourceMappingURL=105.a37c4853.chunk.js.map
